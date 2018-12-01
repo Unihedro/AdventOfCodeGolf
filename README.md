@@ -1,2 +1,1 @@
-# AdventOfCodeGolf
-dunno lol
+https://github.com/Unihedro/AdventOfCodeGolf/wiki
